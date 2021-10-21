@@ -1,6 +1,6 @@
 # swagger-k8s-crd-codegen
 
-This tool reads a swagger.yml to produce Kubernetes CRDs of the specified models.
+This tool reads a `swagger.yml` to produce Kubernetes CRDs of the specified models.
 
 NOTE: This generator only parses model definitions, and does not parse, examine, or utilize any paths within your application.
 
